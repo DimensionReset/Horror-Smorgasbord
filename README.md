@@ -55,7 +55,3 @@ People who join the server **must also configure their IPv4 and IPv6 DNS setting
 - Always use the same port (`24454`) for voice chat consistency.  
 - If your players can’t connect, verify both **IPv4** and **IPv6** are properly configured on their machines.  
 - Restarting Playit tunnels often resolves connection issues quickly.
-
----
-
-**Enjoy the screams — together.** 👻
