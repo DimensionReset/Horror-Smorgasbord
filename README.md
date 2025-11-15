@@ -9,12 +9,22 @@ This repository provides guidance for the trickier parts of setup, such as enabl
 
 ## ⚙️ How to Set Up a LAN Server
 
+### A. Setting Up Default LAN
 1. Start and load a **Singleplayer World**.  
 2. Press **ESC** and select **OPEN TO LAN**.  
 3. Change the **port** to `24454` (Default Simple Voice Chat Port).  
 4. *(Optional)* Switch from **Online Mode** to **Offline Mode + UUID Fix** to allow cracked players.  
-5. Start the server and wait for it to load.  
-6. Copy the link that appears in chat and send it to your players!
+5. Start the LAN World.
+
+### B. Setting Up Playit Server
+1. Use the command ```/playit open-lan``` in the chat.
+2. Click the link that appears.
+3. Make a [playit.gg](https://playit.gg/) account.
+4. Redeem the tunnel.
+5. Copy the link in Minecraft chat.
+6. Send it to players!  
+
+***Note:*** Once you've set up the Playit server once, the IP will be the same for other worlds you decide to run!
 
 ---
 
@@ -52,11 +62,11 @@ People who join the server **must also configure their IPv4 and IPv6 DNS setting
     → The host should increase the allocated memory for the modpack from 4 GB to **8 GB** or even **12 GB**.  
 
 - **High Ping / Lag Issues**
-  - **A.** *E4mc (Online LAN Mod)* may be having issues.  
+  - **A.** *Playit (Server Tunneling Service)* may be having issues.  
     → Fix: Wait for updates or stability improvements.  
   - **B.** *Host’s Internet is weak.*  
     → Fix: Improve connection or switch hosts.  
-  - **C.** *Playit.gg tunnel lagging.*  
+  - **C.** *Simple VC tunnel lagging.*  
     → Fix: Restart the tunnel.
 
 ---
