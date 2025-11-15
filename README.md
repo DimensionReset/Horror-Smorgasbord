@@ -18,7 +18,7 @@ This repository provides guidance for the trickier parts of setup, such as enabl
 
 ## 🎙️ How to Add Simple Voice Chat to a LAN Server
 
-### Step 1: Configure Network Settings
+### A. Configure Network Settings
 People who join the server **must also configure their IPv4 and IPv6 DNS settings** as shown below:
 
 ![Network Configuration Guide](network_guide.png)  
@@ -27,7 +27,7 @@ People who join the server **must also configure their IPv4 and IPv6 DNS setting
 
 <img src="power_management.png" alt="Power Management Configuration Guide" width="50%">
 
-### Step 2–10: Set Up the Tunnel
+### B. Set Up the Tunnel
 1. Go to [https://playit.gg/](https://playit.gg/) and create an account.  
 2. Download the **Playit app** to run tunnels.  
 3. Create a new **UDP/TCP tunnel**.  
