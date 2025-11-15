@@ -1,4 +1,6 @@
-![Reset's Horror Smorgasbord](RHS_title.png)
+<a href="https://drive.google.com/file/d/1xmHN_skxG3DOdT27k7QnXWDhwjfYPJv8/view?usp=sharing">
+  <img src="RHS_title.png" alt="Reset's Horror Smorgasbord" width="100%">
+</a>
 
 **Reset's Horror Smorgasbord** is a Minecraft Forge Modpack that turns the game into a cohesive horror experience.  
 This repository provides guidance for the trickier parts of setup, such as enabling **LAN servers** and configuring **Simple Voice Chat**.
