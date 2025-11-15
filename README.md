@@ -39,11 +39,11 @@ People who join the server **must also configure their IPv4 and IPv6 DNS setting
 ## 🧩 Common Issues
 
 - **Low FPS or Frame Lag**
-  - **A.** In Singleplayer:
-    → Make sure your allocated memory for the modpack is relatively high whilst also taking into consideration your system's RAM.
-    → Recommended memory for modpack is **4 GB to 6 GB.**
-  - **B.** When in a server:
-    → The host should increase the allocated memory for the modpack from 4 GB to **8 GB** or even **12 GB**.
+  - **A.** In Singleplayer:  
+    → Make sure your allocated memory for the modpack is relatively high whilst also taking into consideration your system's RAM.  
+    → Recommended memory for modpack is **4 GB to 6 GB.**  
+  - **B.** When in a server:  
+    → The host should increase the allocated memory for the modpack from 4 GB to **8 GB** or even **12 GB**.  
 
 - **High Ping / Lag Issues**
   - **A.** *E4mc (Online LAN Mod)* may be having issues.  
