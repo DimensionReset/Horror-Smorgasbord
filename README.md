@@ -1,4 +1,4 @@
-<a href="https://drive.google.com/file/d/17T2cQD1lVtvKr3I-vw12NsruZK0JzTiN/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1tI-UbPF5dZbAotw-0QrknYz7QuUpgC10/view?usp=sharing">
   <img src="RHS_title.png" alt="Reset's Horror Smorgasbord" width="100%">
 </a>  
 
