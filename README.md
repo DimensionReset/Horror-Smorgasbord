@@ -23,7 +23,7 @@ People who join the server **must also configure their IPv4 and IPv6 DNS setting
 
 ![Network Configuration Guide](network_guide.png)  
 
-***NOTE:*** If your adapter settings keep reverting, please change your 
+***NOTE:*** If your adapter settings keep reverting, please change your adapter's power management settings.
 
 <img src="power_management.png" alt="Power Management Configuration Guide" width="512">
 
