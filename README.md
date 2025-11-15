@@ -25,7 +25,7 @@ People who join the server **must also configure their IPv4 and IPv6 DNS setting
 
 ***NOTE:*** If your adapter settings keep reverting, please change your adapter's power management settings.
 
-<img src="power_management.png" alt="Power Management Configuration Guide" width="512">
+<img src="power_management.png" alt="Power Management Configuration Guide" width="70%">
 
 ### Step 2–10: Set Up the Tunnel
 1. Go to [https://playit.gg/](https://playit.gg/) and create an account.  
