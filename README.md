@@ -21,7 +21,11 @@ This repository provides guidance for the trickier parts of setup, such as enabl
 ### Step 1: Configure Network Settings
 People who join the server **must also configure their IPv4 and IPv6 DNS settings** as shown below:
 
-![Network Configuration Guide](network_guide.png)
+![Network Configuration Guide](network_guide.png)  
+
+***NOTE:*** If your adapter settings keep reverting, please change your 
+
+![Power Management Configuration Guide](power_management.png)  
 
 ### Step 2–10: Set Up the Tunnel
 1. Go to [https://playit.gg/](https://playit.gg/) and create an account.  
