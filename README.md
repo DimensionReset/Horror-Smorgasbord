@@ -36,7 +36,7 @@ People who join the server **must also configure their IPv4 and IPv6 DNS setting
 
 ---
 
-## 🧩 Common Issues
+## 🪳 Common Issues
 
 - **Low FPS or Frame Lag**
   - **A.** In Singleplayer:  
